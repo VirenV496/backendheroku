@@ -57,7 +57,7 @@ route.get('/oauth/linkedin/callback', function(req, res) {
         return res.redirect('/');
 
         // Linkedin.connections.retrieve(function(err, connections) {
-        //     console.log(connections);
+         //     console.log(connections);
         // });
 
 
